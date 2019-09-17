@@ -1,0 +1,26 @@
+1.b.<html>
+2.c.hyper text markup languange
+3.c.<img>
+4.b.submit
+5.c.rowspan
+6.c.badan dari html
+7.e.br
+8.b.marquee
+9.b.mencatat setiap perubahan file protek yang dikerjakan user
+10.c.git clone
+
+essay
+1.apa yang kamu ketahui tentang html
+jawab
+HTML atau Hyper Text Markup Language merupakan sebuah mark up bahasa untuk struktur pembangunan suatu web
+
+2.apa yang kamu tau tentang git
+git adalah VCS(Versioning control system) yang digunakan untuk programmer mengolah proyek pengembangan perangkat lunak,vcs bertugas untuk encatat setiap perubahan pada file proyek yang dikerjakan kelompok atau sendiri
+contohnya github,dll
+
+3.sebutkan 5 tag html dan jelaskan
+<title> = untuk memberi title pada suatu web
+<p> = untuk menulis paragraf
+<h1> = untuk menulis header
+<img> = untuk definisi gambar
+<a> = tag hyperlink lalu disambung dengan href="google.com" seperti itu
