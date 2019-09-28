@@ -1,0 +1,14 @@
+{
+    "home": {
+        "nama": "priyagung elza yogitama",
+        "nim": 1303170030,
+        "kelas": "IT-41-02"
+    },
+    "about": "tidak tau harus mau buat apa",
+    "hobbies": ["begadang", "bobok", "makan"],
+    "skill": ["", "", ""],
+    "education": ["sd", "smp", "sma"],
+    "experience": ["lfs", "lfs", "lfs"]
+
+
+}
