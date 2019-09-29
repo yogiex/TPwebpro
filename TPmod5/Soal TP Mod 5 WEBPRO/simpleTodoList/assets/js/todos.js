@@ -23,7 +23,6 @@ $("ul").on('click', "span", function (e) {
   e.stopPropagation();
   $(this).closest("li").fadeOut(500,function() {
    $(this).remove();
-    updateNumbers();
   });
 });
 
