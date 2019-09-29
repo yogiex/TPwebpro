@@ -18,14 +18,12 @@ $('#semangat').append(
 $('ul').on('click', 'li', function() {
   $(this).toogleClass("completed")
 });
-
 $("ul").on('click', "span", function (e) {
   e.stopPropagation();
   $(this).closest("li").fadeOut(500,function() {
    $(this).remove();
   });
 });
-
 $("input[type='text']").keypress(function(e) {
   if(e.which === 13 || e.KeyCode == 13) {
     var todoText = $(this).val();

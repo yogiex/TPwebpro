@@ -6,9 +6,9 @@
     },
     "about": "tidak tau harus mau buat apa",
     "hobbies": ["begadang", "bobok", "makan"],
-    "skill": ["", "", ""],
+    "skill": ["tidur", "tidur", "makan"],
     "education": ["sd", "smp", "sma"],
-    "experience": ["lfs", "lfs", "lfs"]
+    "experience": ["linux fudamental", "bash", "mininet"]
 
 
 }
