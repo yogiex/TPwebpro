@@ -33,3 +33,9 @@ $("input[type='text']").keypress(function(e) {
     $(this).val("");
   }
 });
+
+$(documents).ready(function)(){
+	$('li').click(function)(){
+		$('i').toggleClass('fa fa-plus');
+    });
+  }); 
